@@ -1,0 +1,17 @@
+Architect Review
+
+Architecture review skill for evaluating software systems, infrastructure design, and technical decision-making.
+
+Overview
+
+Provides a structured framework for assessing scalability, maintainability, reliability, security, and performance across application and system architectures.
+
+Usage
+
+Used to review existing architectures, identify technical risks, and validate system design decisions before implementation or scaling.
+
+Files
+skill.md — Main skill content.
+License
+
+MIT License
