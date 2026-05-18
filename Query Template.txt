@@ -1,0 +1,26 @@
+Skill Request:
+[ENTER SKILL NAME OR TOPIC]
+
+Purpose:
+[WHAT YOU WANT THIS SKILL TO DO]
+
+Use Case:
+[WHERE / HOW YOU INTEND TO USE IT]
+
+Context (Optional):
+[ANY ADDITIONAL DETAILS, WORKFLOW, OR REQUIREMENTS]
+
+Output Requirement:
+Generate only the required file content based on the request:
+
+README.md OR
+skill.md OR
+LICENSE
+
+Constraints:
+
+Follow repository structure standards
+Keep output clean and production-ready
+No explanations or extra text
+No formatting outside requested file
+Maintain consistency with Antigravity Skills library rules
